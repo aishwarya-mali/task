@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    box-sizing: border-box;
+}
+
+.diva{
+    padding:20px;
+    background-color: #C94D4D;
+    width: 50%;
+    height: 500px;
+    float:left; /* add this */
+    border: 1px solid black;
+    
+}
+
+.divb{
+    padding: 20px;
+    margin-left: 30px;
+    width: 630px;
+    height: 500px;
+    background-color: #2374CC;
+    border: 1px solid black;
+    float: left; /* add this */
+}
+
+input{
+    margin: 20px;
+}
+
+button{
+    margin: 20px;
+}
